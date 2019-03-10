@@ -13,7 +13,6 @@ notifications:
 script:
 - mvn verify
 - mvn org.jacoco:jacoco-maven-plugin:prepare-agent verify
-
 - mvn sonar:sonar \
   -Dsonar.projectKey=test:torrecilla \
   -Dsonar.host.url=https://sonarcloud.io \
