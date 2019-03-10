@@ -10,6 +10,7 @@ public class AutobusApiController {
     public static final String AUTOBUSES = "/autobuses";
 
     public static final String ID_ID = "/{id}";
+    public static final String MYID = "ID";
 
     public static final String LINEAREGULAR = "/lineaRegular";
 
