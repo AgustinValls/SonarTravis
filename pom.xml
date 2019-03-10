@@ -6,7 +6,7 @@
 
 	<modelVersion>4.0.0</modelVersion>
 	<artifactId>torrecilla</artifactId>
-	<groupId>test</groupId>
+	<groupId>texto</groupId>
 	<version>1.0.0-SNAPSHOT</version>
 	<packaging>jar</packaging>
 
